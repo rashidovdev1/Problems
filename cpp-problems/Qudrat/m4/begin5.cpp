@@ -1,4 +1,4 @@
-// 
+// Kub hajmi V=a*(3)  To'la sirti  S=6*a*(2)
 #include<iostream>
 using namespace std;
 
