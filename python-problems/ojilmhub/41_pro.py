@@ -21,11 +21,6 @@ else:
         i += 1
     print(i)
 
-
-
-
-
-
 # n or ndan keyingi tub
 # n = int(input("N ni kiriting: "))
 #
