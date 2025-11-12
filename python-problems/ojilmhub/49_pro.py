@@ -1,8 +1,7 @@
+N = int(input("Piramida balandligi: "))
 
+for i in range(1, N+1):
+    print(" " * (N - i) + "*" * (2 * i - 1))
 
-n = int(input('n = '))
-
-for i in range(1, n+1):
-    print(i*'*')
-for i in range(1, n+1):
-    print((n-i)*'*')
+for i in range(1, N):
+    print(" " * i + "*" * (2 * (N - i) - 1))
